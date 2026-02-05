@@ -1,0 +1,17 @@
+    .parallax {
+        background-image: url(pexels-nikola-tomasic-58494762-35563363.jpg);
+        height: 100vh;
+        background-position: center;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .text {
+        padding: 2rem;
+    }
